@@ -28,4 +28,11 @@ $$\frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$$
 
 ---
 
+## Test Question
+
+```{r}
+sum(1:10)
+10 *(11)/2
+```
+
 
